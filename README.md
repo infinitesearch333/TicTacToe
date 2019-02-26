@@ -1,4 +1,4 @@
-### TicTacToe
+<img src = "TicTacToe_Images/TicTacToe_Logo.png" width = "300" height = "64">
 __Sumary:__
 This application is a simple implementation of the classic game of Tic-Tac-Toe
 
